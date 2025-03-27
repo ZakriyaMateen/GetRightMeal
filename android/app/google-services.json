@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "589894780984",
+    "project_id": "getrightmeal-2599e",
+    "storage_bucket": "getrightmeal-2599e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589894780984:android:9292d5d340c8a08cc8becd",
+        "android_client_info": {
+          "package_name": "com.getrightmeal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589894780984-idslpp9fj7gaiin39egegjgj2inm1coi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWKtXOukjz4odMoqGea5fPccXeWZtKs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589894780984-idslpp9fj7gaiin39egegjgj2inm1coi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589894780984-ra21kucvc0hgb5mkvb0drgcmbv1j90fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getrightmealnew.getrightmealnew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589894780984:android:b0abf0e42c1be50dc8becd",
+        "android_client_info": {
+          "package_name": "com.getrightmealnew.getrightmealnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589894780984-dvnsujd4faf3riso07adkebvivn97b0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getrightmealnew.getrightmealnew",
+            "certificate_hash": "eaa3a25349e9530a4fa3c5aaa74270f49c87f848"
+          }
+        },
+        {
+          "client_id": "589894780984-gjja9vhd28cstjuj5k695h6a0qkrootc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getrightmealnew.getrightmealnew",
+            "certificate_hash": "576675681fc9f8f3ba277e2c8e57c146557ad88f"
+          }
+        },
+        {
+          "client_id": "589894780984-idslpp9fj7gaiin39egegjgj2inm1coi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWKtXOukjz4odMoqGea5fPccXeWZtKs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589894780984-idslpp9fj7gaiin39egegjgj2inm1coi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589894780984-ra21kucvc0hgb5mkvb0drgcmbv1j90fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getrightmealnew.getrightmealnew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
